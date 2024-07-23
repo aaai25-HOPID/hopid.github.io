@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: HOPID
+description: Heterogeneous Prompt-Guided Entity Inferring and Distilling for Scene-Text Aware Cross-modal Retrieval
+github:
+  is_project_page: false
